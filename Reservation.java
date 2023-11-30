@@ -8,7 +8,7 @@ public class Reservation extends Passenger {
         this.seatReserved = false;
     }
 
-    // Getters and setters
+    // getters and setters
 
     public Flight getFlight() {
         return flight;
@@ -26,5 +26,4 @@ public class Reservation extends Passenger {
         this.seatReserved = true;
     }
 
-    // Other methods specific to reservations
 }

@@ -9,7 +9,7 @@ public class Passenger {
         this.contact = contact;
     }
 
-    // Getters and setters
+    // getters and setters
 
     public String getName() {
         return name;
@@ -35,5 +35,4 @@ public class Passenger {
         this.contact = contact;
     }
 
-    // Other methods specific to passengers
 }

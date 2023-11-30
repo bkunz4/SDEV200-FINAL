@@ -13,7 +13,7 @@ public class Flight {
         this.arrivalTime = arrivalTime;
     }
 
-    // Getters and setters
+    // getters and setters
 
     public String getFlightNumber() {
         return flightNumber;
@@ -55,5 +55,4 @@ public class Flight {
         this.arrivalTime = arrivalTime;
     }
 
-    // Other methods specific to flights
 }
